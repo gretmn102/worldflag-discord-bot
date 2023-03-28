@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "worldflag-discord-bot", "src\worldflag-discord-bot.fsproj", "{2DCA5D35-E190-4FD0-A6C4-89DEA0BC27FD}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "tests", "tests\tests.fsproj", "{A59FCB7E-0C15-4B88-94D9-1106722B264D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{720DF966-D7EC-45F2-8224-3A696D443DA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{720DF966-D7EC-45F2-8224-3A696D443DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{720DF966-D7EC-45F2-8224-3A696D443DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{720DF966-D7EC-45F2-8224-3A696D443DA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E6F7E8C-FABD-490C-AC4C-B45C2CDE52A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E6F7E8C-FABD-490C-AC4C-B45C2CDE52A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E6F7E8C-FABD-490C-AC4C-B45C2CDE52A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E6F7E8C-FABD-490C-AC4C-B45C2CDE52A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DCA5D35-E190-4FD0-A6C4-89DEA0BC27FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DCA5D35-E190-4FD0-A6C4-89DEA0BC27FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DCA5D35-E190-4FD0-A6C4-89DEA0BC27FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DCA5D35-E190-4FD0-A6C4-89DEA0BC27FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A59FCB7E-0C15-4B88-94D9-1106722B264D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A59FCB7E-0C15-4B88-94D9-1106722B264D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A59FCB7E-0C15-4B88-94D9-1106722B264D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A59FCB7E-0C15-4B88-94D9-1106722B264D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
